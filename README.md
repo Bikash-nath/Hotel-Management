@@ -19,4 +19,4 @@ Laundry service <br/>
 Calculate Checkout Date & Time <br/>
 Calculate Bill Amount <br/>
 Check out <br/>
-Exit**
+Exit Screen**
